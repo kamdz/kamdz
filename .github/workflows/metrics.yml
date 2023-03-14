@@ -14,12 +14,13 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           template: classic
+          base: header
           config_timezone: Europe/Warsaw
           
           plugin_activity: yes
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_limit: 15
+          plugin_activity_limit: 10
           plugin_activity_load: 300
           plugin_activity_visibility: all
           
