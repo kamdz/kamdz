@@ -1,3 +1,3 @@
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img src="/wordart.png" alt="Welcome to my profile!">
 </picture>
